@@ -13,3 +13,6 @@ dbt/logs/
 dbt/dbt_packages/
 dbt/.user.yml
 logs/
+
+wh_11/
+data_11/
